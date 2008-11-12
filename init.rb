@@ -1,1 +1,1 @@
-ActionController::Base.send( :include, SessionManagement )
+require File.dirname(__FILE__) + "/rails/init"
