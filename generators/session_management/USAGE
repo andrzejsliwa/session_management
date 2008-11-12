@@ -1,0 +1,10 @@
+Description:
+    This generator is used for enabling session_managment in 
+    your application.
+
+Example:
+    ./script/generate session_managment
+
+    This will create:
+        configuration file user_session.rb in config, and add
+        using of this api in application controller
