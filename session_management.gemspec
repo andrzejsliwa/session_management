@@ -14,6 +14,7 @@ Gem::Specification.new do |s|
               "generators/session_management",
               "generators/session_management/session_management_generator.rb",
               "generators/session_management/templates",
+              "generators/session_management/templates/user_session.rb",
               "generators/session_management/USAGE",
               "init.rb",
               "install.rb",
